@@ -3,7 +3,7 @@ Exercício do curso de Flask da DIO, criação de API com Flask-RESTful e Flask-
 
 Objetivo:<br/>Estudo;<br/>
 
-####Ordem de execução: <br/>
+#### Ordem de execução:
 models.py = cria o bando de dados; <br/>
 utils.py = cria o usuário "rafael", senha "1234"; <br/>
 app.py = servidos local, https:127.0.0.1:5000 <br/>
